@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2015
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebChat", "WebChat\WebChat.csproj", "{AB41D2CB-ADB7-484A-907B-1919BF80798F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB41D2CB-ADB7-484A-907B-1919BF80798F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB41D2CB-ADB7-484A-907B-1919BF80798F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB41D2CB-ADB7-484A-907B-1919BF80798F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB41D2CB-ADB7-484A-907B-1919BF80798F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DA30E004-4EE5-4249-98F1-08C7A51780C2}
+	EndGlobalSection
+EndGlobal
